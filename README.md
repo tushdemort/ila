@@ -9,6 +9,7 @@ ILA is a lightweight version control system written in Python, designed for seam
 - **Clone Repository**: Clone a repository from a remote server.
 - **Pull Updates**: Sync and update your local repo with the latest changes from the master.
 - **Offline**: No need for a public server. Everything stays within your control.
+- **Efficient Hashing and Data Reconstruction**: Uses SHA-1 to hash objects and recreate data for object storage.
 
 ## Upcoming Features
 **1. Push**: Ability to push code from local instances to remote server.
